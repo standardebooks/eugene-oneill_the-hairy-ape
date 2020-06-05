@@ -86,3 +86,7 @@ tr.together td + td{
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
+
+[epub|type~="z3998:stage-direction"] i{
+	font-style: normal;
+}
