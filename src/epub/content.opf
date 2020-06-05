@@ -38,42 +38,44 @@
 		<meta property="term" refines="#subject-2">sh2008116327</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">Eugene O’Neill’s 1922 expressionist play follows Yank's dehumanization descending from a leader of his fellow workers to literal ape.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Eugene O’Neill’s &lt;i&gt;The Hairy Ape&lt;/i&gt; was not one of his best-known works but has gained popularity as an exploration of early American society. It was first produced in 1922 by the Provincetown Players in Massachussetts, embracing expressionism in its set design and staging, before moving on to Broadway, where it faced resistance from local and federal governments due to its radical views.&lt;/p&gt;
+			&lt;p&gt;The play examines the existential crisis of the protagonist, a brutish stoker named Yank, who begins the play secure in his role as the leader of firemen on an Atlantic ocean liner. But when confronted by the disdain of an upper-class passenger who calls him a “filthy beast,” he seeks to rebel against his place. Then, as all his plans for revenge fail, he slowly finds himself descending to the literal level that society has relegated him to.&lt;/p&gt;
+			&lt;p&gt;O’Neill uses Yank’s search for belonging to explore the destructive forces of industrialization and social class. Early on &lt;i&gt;The Hairy Ape&lt;/i&gt;’s commentary on the dehumanization of workers caused it to be taken up by many labor groups and unions to further their own causes. The play also touches on themes of masculinity and socialism, and the repeated references to the “blackface” of the ship’s stokers and Yank’s degeneration into an animal have added a racial element to recent analyses.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4015</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/cu31924021654086</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hairy_Ape</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/eugene-oneill_the-hairy-ape</meta>
 		<dc:creator id="author">Eugene O'Neill</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">O'Neill, Eugene</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Eugene_O%27Neill</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79092602</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Josef Presser</dc:contributor>
+		<meta property="file-as" refines="#artist">Presser, Josef</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Josef_Presser</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n2008038258</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Charles Franks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Franks, Charles</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Robert Rowe</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Rowe, Robert</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -90,12 +92,28 @@
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/scene-1.xhtml" id="scene-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-2.xhtml" id="scene-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-3.xhtml" id="scene-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-4.xhtml" id="scene-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-5.xhtml" id="scene-5.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-6.xhtml" id="scene-6.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-7.xhtml" id="scene-7.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scene-8.xhtml" id="scene-8.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="scene-1.xhtml"/>
+		<itemref idref="scene-2.xhtml"/>
+		<itemref idref="scene-3.xhtml"/>
+		<itemref idref="scene-4.xhtml"/>
+		<itemref idref="scene-5.xhtml"/>
+		<itemref idref="scene-6.xhtml"/>
+		<itemref idref="scene-7.xhtml"/>
+		<itemref idref="scene-8.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
