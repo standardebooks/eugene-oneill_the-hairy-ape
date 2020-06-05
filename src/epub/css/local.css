@@ -36,7 +36,6 @@
 	text-indent: 0;
 }
 
-table[epub|type~="z3998:drama"],
 [epub|type~="z3998:drama"] table{
 	margin: 1em auto;
 }
@@ -69,11 +68,6 @@ tr.together td + td{
 	border-left: 1px solid;
 }
 
-.together + .together td[rowspan],
-.together + .together td[rowspan] + td{
-	padding-top: .5em;
-}
-
 [epub|type~="z3998:drama"] .together td:last-child{
 	padding-left: .5em;
 }
@@ -83,20 +77,12 @@ tr.together td + td{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:song"] p + p{
-	margin-top: 1em;
-}
-
-[epub|type~="z3998:song"] + p{
-	text-indent: 0;
-}
-
-[epub|type~="z3998:poem"] p > span{
+[epub|type~="z3998:song"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-[epub|type~="z3998:poem"] p > span + br{
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
