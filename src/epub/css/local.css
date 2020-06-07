@@ -87,6 +87,11 @@ tr.together td + td{
 	display: none;
 }
 
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
 [epub|type~="z3998:stage-direction"] i{
 	font-style: normal;
 }
