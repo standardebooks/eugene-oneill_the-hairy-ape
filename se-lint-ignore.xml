@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="dramatis-personae.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>No punctuation in list of characters</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
