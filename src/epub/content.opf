@@ -94,7 +94,6 @@
 		<item href="text/dramatis-personae.xhtml" id="dramatis-personae.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/scenes.xhtml" id="scenes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/scene-1.xhtml" id="scene-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/scene-2.xhtml" id="scene-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/scene-3.xhtml" id="scene-3.xhtml" media-type="application/xhtml+xml"/>
@@ -103,6 +102,7 @@
 		<item href="text/scene-6.xhtml" id="scene-6.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/scene-7.xhtml" id="scene-7.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/scene-8.xhtml" id="scene-8.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/scenes.xhtml" id="scenes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
