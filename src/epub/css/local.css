@@ -43,7 +43,9 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 }
 
 [epub|type~="z3998:drama"] table{
+	border-collapse: collapse;
 	margin: 1em auto;
+	width: 100%;
 }
 
 [epub|type~="z3998:stage-direction"]{
