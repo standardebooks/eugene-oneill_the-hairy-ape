@@ -79,11 +79,7 @@ section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	font-style: italic;
 }
 
-#list-of-scenes{
-	text-align: left;
-}
-
-#list-of-scenes ul{
+#scenes ul{
 	list-style: none;
 	margin: 1em;
 	padding: 0;
