@@ -39,7 +39,6 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An expressionist play following a brutish stoker’s dehumanization as he descends from being a leader of his fellow workers to a literal ape.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/eugene-oneill"&gt;Eugene O’Neill’s&lt;/a&gt; &lt;i&gt;The Hairy Ape&lt;/i&gt; isn’t one of his best-known works, but it has gained popularity as an exploration of early American society. It was first produced in 1922 by the Provincetown Players in Massachussetts, embracing expressionism in its set design and staging, before moving on to Broadway, where it faced resistance from local and federal governments due to its radical views.&lt;/p&gt;
