@@ -52,8 +52,8 @@
 		<meta property="se:reading-ease.flesch">87.62</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hairy_Ape</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/eugene-oneill_the-hairy-ape</meta>
-		<dc:creator id="author">Eugene O'Neill</dc:creator>
-		<meta property="file-as" refines="#author">O'Neill, Eugene</meta>
+		<dc:creator id="author">Eugene O’Neill</dc:creator>
+		<meta property="file-as" refines="#author">O’Neill, Eugene</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Eugene_O%27Neill</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79092602</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
