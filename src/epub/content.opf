@@ -55,7 +55,7 @@
 		<dc:creator id="author">Eugene O’Neill</dc:creator>
 		<meta property="file-as" refines="#author">O’Neill, Eugene</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Eugene_O%27Neill</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79092602</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79092602</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Josef Presser</dc:contributor>
 		<meta property="file-as" refines="#artist">Presser, Josef</meta>
