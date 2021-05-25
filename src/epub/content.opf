@@ -35,6 +35,7 @@
 		<meta property="file-as" refines="#subtitle">Comedy of Ancient and Modern Life in Eight Scenes, A</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Hairy Ape: A Comedy of Ancient and Modern Life in Eight Scenes</dc:title>
+		<meta property="file-as" refines="#fulltitle">Hairy Ape, The</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Social classes -- Drama</dc:subject>
 		<dc:subject id="subject-2">New York (N.Y.) -- Drama</dc:subject>
