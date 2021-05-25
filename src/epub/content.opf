@@ -30,6 +30,12 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Hairy Ape</dc:title>
 		<meta property="file-as" refines="#title">Hairy Ape, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Comedy of Ancient and Modern Life in Eight Scenes</dc:title>
+		<meta property="file-as" refines="#subtitle">Comedy of Ancient and Modern Life in Eight Scenes, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Hairy Ape: A Comedy of Ancient and Modern Life in Eight Scenes</dc:title>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Social classes -- Drama</dc:subject>
 		<dc:subject id="subject-2">New York (N.Y.) -- Drama</dc:subject>
 		<dc:subject id="subject-3">Unskilled labor -- Drama</dc:subject>
