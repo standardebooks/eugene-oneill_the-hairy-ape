@@ -37,9 +37,9 @@
 		<dc:title id="fulltitle">The Hairy Ape: A Comedy of Ancient and Modern Life in Eight Scenes</dc:title>
 		<meta property="file-as" refines="#fulltitle">Hairy Ape, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Social classes -- Drama</dc:subject>
-		<dc:subject id="subject-2">New York (N.Y.) -- Drama</dc:subject>
-		<dc:subject id="subject-3">Unskilled labor -- Drama</dc:subject>
+		<dc:subject id="subject-1">Social classes--Drama</dc:subject>
+		<dc:subject id="subject-2">New York (N.Y.)--Drama</dc:subject>
+		<dc:subject id="subject-3">Unskilled labor--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008111803</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
